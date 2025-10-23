@@ -1,0 +1,8 @@
+comandos Git
+git--version //
+cmdkey /delete: 
+git config --global user.name "frankinem"
+git config user.name
+git config --global user.email frankedier@inemkennedy.edu.co
+git config user.email
+git status

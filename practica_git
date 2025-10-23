@@ -6,3 +6,4 @@ git config user.name
 git config --global user.email frankedier@inemkennedy.edu.co
 git config user.email
 git status
+git clone https://github.com/frankinem/practica_1007.git

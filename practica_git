@@ -1,4 +1,4 @@
-comandos Git
+COMANDOS GIT- ACTUALIZADO -OTRA VEZ
 git--version //
 cmdkey /delete: 
 git config --global user.name "frankinem"
@@ -6,4 +6,7 @@ git config user.name
 git config --global user.email frankedier@inemkennedy.edu.co
 git config user.email
 git status
+git add .
+git commit -m"Primera versión"
+git push -u origin main
 git clone https://github.com/frankinem/practica_1007.git
